@@ -5,8 +5,6 @@ zhangyuge xixi
 xiaomeixin hen piaoliang 
 heihei
 exit
-haha
-bug
 local
 github
 log1
