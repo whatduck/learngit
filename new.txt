@@ -10,3 +10,4 @@ bug
 local
 github
 log1
+log2
